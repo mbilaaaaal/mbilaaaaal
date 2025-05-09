@@ -19,7 +19,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,mysql,express,node,dotnet,cs,flutter,firebase,github,git,postman,java,sqlite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,mysql,express,nodejs,dotnet,cs,flutter,firebase,github,git,postman,java,sqlite&perline=5)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayansaeed123&theme=dark)
 
