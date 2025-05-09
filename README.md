@@ -21,8 +21,8 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,mysql,express,nodejs,dotnet,cs,flutter,firebase,github,git,postman,java,sqlite&perline=5)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayansaeed123&theme=dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayansaeed123&theme=dark) -->
 
 
 <br>
-⭐️ From [Muhammad Bilal](https://github.com/mbilaaaaal)
+⭐️ From Muhammad Bilal
